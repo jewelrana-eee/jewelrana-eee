@@ -9,31 +9,11 @@
 
 ## Fields I Work In
 
-```mermaid
-flowchart TD
-    ME(["Concept to Reality"])
-    ME --> A["Power<br>Electronics"]
-    ME --> B["Embedded<br>Systems & IoT"]
-    ME --> C["Automation<br>& Robotics"]
-    ME --> D["Energy<br>Monitoring"]
-    ME --> E["Simulation<br>& Analysis"]
-```
+<img src="assets/fields.svg" alt="Fields I work in" width="720">
 
 ## Skills & Tools
 
-**Programming & Hardware**<br>
-![C/C++](https://img.shields.io/badge/%C2%A0%C2%A0%C2%A0C%2FC%2B%2B%C2%A0%C2%A0%C2%A0-00599C?style=flat-square)
-![Arduino](https://img.shields.io/badge/%C2%A0Arduino%C2%A0-00979D?style=flat-square)
-![ESP32](https://img.shields.io/badge/%C2%A0%C2%A0ESP32%C2%A0%C2%A0%C2%A0-E7352C?style=flat-square)
-![STM32](https://img.shields.io/badge/%C2%A0%C2%A0STM32%C2%A0%C2%A0%C2%A0-03234B?style=flat-square)
-![Python](https://img.shields.io/badge/%C2%A0%C2%A0Python%C2%A0%C2%A0-3776AB?style=flat-square)
-
-**Simulation & Design**<br>
-![MATLAB](https://img.shields.io/badge/%C2%A0MATLAB%C2%A0%C2%A0-0076A8?style=flat-square)
-![Simulink](https://img.shields.io/badge/Simulink-D96B1F?style=flat-square)
-![Proteus](https://img.shields.io/badge/%C2%A0Proteus%C2%A0-2E7D32?style=flat-square)
-![LTspice](https://img.shields.io/badge/%C2%A0LTspice%C2%A0-1F6FEB?style=flat-square)
-![KiCad](https://img.shields.io/badge/%C2%A0%C2%A0KiCad%C2%A0%C2%A0%C2%A0-314CB0?style=flat-square)
+<img src="assets/skills.svg" alt="Skills and tools" width="532">
 
 ## GitHub Stats
 
@@ -44,6 +24,6 @@ flowchart TD
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/%C2%A0LinkedIn%C2%A0-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-jewel-rana-21a760447)
-[![Facebook](https://img.shields.io/badge/%C2%A0Facebook%C2%A0-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/share/19g2JKSZLf/)
-[![Email](https://img.shields.io/badge/%C2%A0%C2%A0%C2%A0%C2%A0Email%C2%A0%C2%A0%C2%A0%C2%A0-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jewelrana15800@gmail.com)
+<a href="https://www.linkedin.com/in/md-jewel-rana-21a760447"><img src="assets/linkedin.svg" alt="LinkedIn" width="130"></a>
+<a href="https://www.facebook.com/share/19g2JKSZLf/"><img src="assets/facebook.svg" alt="Facebook" width="130"></a>
+<a href="mailto:jewelrana15800@gmail.com"><img src="assets/email.svg" alt="Email" width="130"></a>
