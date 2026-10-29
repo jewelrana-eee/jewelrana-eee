@@ -9,7 +9,9 @@
 
 ## Fields I Work In
 
-<img src="assets/fields.svg" alt="Fields I work in" width="720">
+<p align="center">
+  <img src="assets/fields.svg" alt="Fields I work in" width="720">
+</p>
 
 ## Skills & Tools
 
@@ -24,6 +26,6 @@
 
 ## Connect With Me
 
-<a href="https://www.linkedin.com/in/md-jewel-rana-21a760447"><img src="assets/linkedin.svg" alt="LinkedIn" width="130"></a>
-<a href="https://www.facebook.com/share/19g2JKSZLf/"><img src="assets/facebook.svg" alt="Facebook" width="130"></a>
-<a href="mailto:jewelrana15800@gmail.com"><img src="assets/email.svg" alt="Email" width="130"></a>
+<a href="https://www.linkedin.com/in/md-jewel-rana-21a760447"><img src="assets/linkedin.svg" alt="LinkedIn" width="32%"></a>
+<a href="https://www.facebook.com/share/19g2JKSZLf/"><img src="assets/facebook.svg" alt="Facebook" width="32%"></a>
+<a href="mailto:jewelrana15800@gmail.com"><img src="assets/email.svg" alt="Email" width="32%"></a>
